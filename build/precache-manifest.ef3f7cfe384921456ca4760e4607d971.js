@@ -21,7 +21,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "2b3db84e36f9ff3181ab",
-    "url": "/FaceRecognition/static/js/main.chunk.js"
+    "url": "/FaceRecognition/static/js/main.ec0a8113.chunk.js"
   },
   {
     "revision": "a237c8afeb8aec7ea4a6",
